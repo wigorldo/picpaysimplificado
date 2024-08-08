@@ -1,4 +1,6 @@
 package com.picpaysimplificado.user;
 
-public class UserType {
+public enum UserType {
+    COMUM,
+    LOJISTA
 }
